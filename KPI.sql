@@ -1,1 +1,0 @@
-select state, total_deceased,total_confirmed from State_table;
