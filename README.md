@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Advanced Excel, SQL Server, Numpy, Pandas,Tableau
+- 💬 Ask me about **Advanced Excel, SQL Server, MY SQL Workbench, Python, Numpy, Pandas,POWER BI
 
 - 📫 How to reach me **avinash25121995@gmail.com**
 
